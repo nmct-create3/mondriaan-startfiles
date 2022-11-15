@@ -1,0 +1,28 @@
+:root {
+    --red: rgb(212, 46, 33);
+    --yellow: rgb(247, 213, 73);
+    --blue: rgb(20, 16, 88);
+    --dark: hsl(0, 4%, 9%);
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {}
+
+.canvas {}
+
+.cell {}
+
+.cell--1 {}
+
+.cell--2 {}
+
+/* ... */
