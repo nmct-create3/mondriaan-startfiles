@@ -1,8 +1,11 @@
 :root {
-    --red: rgb(212, 46, 33);
-    --yellow: rgb(247, 213, 73);
-    --blue: rgb(20, 16, 88);
-    --dark: hsl(0, 4%, 9%);
+    --white: white;
+    --red: #DF2B1D;
+    --yellow: #F5CA41;
+    --blue: #1521A7;
+    --dark: #0D0105;
+
+    --background-color: whitesmoke;
 }
 
 html {
@@ -21,8 +24,8 @@ body {}
 
 .cell {}
 
-.cell--1 {}
+.cell--a {}
 
-.cell--2 {}
+.cell--b {}
 
 /* ... */
