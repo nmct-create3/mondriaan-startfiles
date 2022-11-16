@@ -3,4 +3,5 @@ Starfiles for the Mondriaan CSS grid exercise
 
 Try to recreate the following Mondrian painting with CSS grid
 
-<img width="1671" alt="Screenshot 2022-11-15 at 10 59 25" src="https://user-images.githubusercontent.com/35494911/201893903-fafbdc52-f4f7-4e42-8573-a995fca5066f.png">
+<img width="1671" alt="Screenshot 2022-11-16 at 10 24 19" src="https://user-images.githubusercontent.com/35494911/202163458-75132d61-7820-4cec-91de-67f7a78c53a1.png">
+
